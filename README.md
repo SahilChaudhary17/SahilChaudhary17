@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @SahilChaudhary17
-- 👀 I’m interested in python, java, and exploring various open source projects
+- 👀 I’m interested in python, c++, and exploring various open source projects
 - 🌱 I’m currently learning java
 - 📫 How to reach me https://www.linkedin.com/in/sahilchaudhary17/
 
