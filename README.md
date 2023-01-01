@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SahilChaudhary17
 - 👀 I’m interested in python, c++, and exploring various open source projects
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning c++
 - 📫 How to reach me https://www.linkedin.com/in/sahilchaudhary17/
 
 <!---
