@@ -28,6 +28,9 @@ Did you know that the word "karate" actually means "empty hand" in Japanese? Thi
 
 Thanks for stopping by!
 
+![SahilChaudhary17's Stats](https://github-readme-stats.vercel.app/api?username=SahilChaudhary17&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+![SahilChaudhary17's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilChaudhary17&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+![SahilChaudhary17's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SahilChaudhary17&theme=vue-dark&hide_border=true)
 
 <!---
 SahilChaudhary17/SahilChaudhary17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
