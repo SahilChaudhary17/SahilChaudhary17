@@ -1,38 +1,21 @@
-# Hi, I'm Sahil Chaudhary 🌞
+# 💫 About Me:
+-> Fourth-year B.Tech CSE student at VIT, specializing in Artificial Intelligence and Machine Learning<br>-> Passionate about using technology to solve real-world challenges, with a strong foundation in C++, Python, and continuous learning in Data Structures and Algorithms<br>-> Actively engaged in projects involving emerging technologies, aiming to develop innovative solutions that make a meaningful impact in the AI field<br>-> Leadership and teamwork experience through my role in the Office of Students' Welfare - VIT Bhopal, where I led initiatives and coordinated university events<br>-> Always open to collaborating with like-minded professionals and exploring new opportunities to innovate
 
-I'm a Developer based in New Delhi, India. I enjoy exploring new technologies and building cool projects that can make people's lives better. In my free time, you can find me capturing my surroundings or exploring new things on Youtube.
 
-## 🔭 What I'm working on
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahilchaudhary17) 
 
-I'm currently working on a project in web development. I'm really excited about this project because it relates to the life of a college student.
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=SahilChaudhary17&theme=dark&hide_border=true&include_all_commits=false&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=SahilChaudhary17&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilChaudhary17&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-## 🌱 What I'm learning
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-I'm always learning new things, and currently, I'm diving deeper into full stack development. I find it fascinating. I'm always looking for new learning opportunities and challenges to push myself.
+---
+[![](https://visitcount.itsvg.in/api?id=SahilChaudhary17&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 👯 Collaborating with me
-
-I'm always open to collaborating with like-minded individuals who are passionate about building awesome projects that can make a difference. If you have a project idea or need some help with your existing project, let's collaborate!
-
-## 💬 Let's talk about
-
-I'm always happy to talk about Artificial Intelligence. If you have any questions or want to learn more about artificial intelligence, feel free to ask me.
-
-## 📫 How to reach me
-
-You can reach me via sahil.techwork@gmail.com or find me on https://www.linkedin.com/in/sahilchaudhary17/. Don't hesitate to drop me a message if you want to talk about anything.
-
-## 😄 Fun fact
-
-Did you know that the word "karate" actually means "empty hand" in Japanese? This refers to the fact that karate is a martial art that primarily uses the hands and feet as weapons, as opposed to swords or other weapons that are held in the hand. So, despite its name, karate is not about fighting with empty hands, but rather about developing the strength, speed, and agility of the hands and feet to deliver powerful strikes and blocks.
-
-Thanks for stopping by!
-
-![SahilChaudhary17's Stats](https://github-readme-stats.vercel.app/api?username=SahilChaudhary17&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![SahilChaudhary17's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SahilChaudhary17&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
-![SahilChaudhary17's Streak](https://github-readme-streak-stats.herokuapp.com/?user=SahilChaudhary17&theme=vue-dark&hide_border=true)
-
-<!---
-SahilChaudhary17/SahilChaudhary17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
